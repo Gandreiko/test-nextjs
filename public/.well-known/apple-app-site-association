@@ -5,7 +5,7 @@
       {
         "appID": "8SHPY86BD9.com.nola.paynola",
         "paths": [
-          "/paynola"
+          "/app/*"
         ]
       }
     ]
